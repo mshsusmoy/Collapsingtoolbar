@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Collapsing toolbar</string>
+    <string name="drawer_close_content_desc">Open</string>
+    <string name="drawer_open_content_desc">Close</string>
+</resources>
